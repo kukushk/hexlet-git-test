@@ -1,1 +1,2 @@
-exp with amend
+git is awesome!
+new line!
